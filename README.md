@@ -26,22 +26,28 @@
 ## 三、完成应用程序交互
 ### 1、设置代码自动补全
 在setting中查找Auto Import选项，在Java和Kotlin部分，勾选Add Unambiguous Imports on the fly
-
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/13.png)
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/14.png)
 ### 2、TOAST按钮添加一个toast消息
-
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/15.png)
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/16.png)
 ### 3、使Count按钮更新屏幕的数字
-
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/17.png)
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/18.png)
 ## 四、完成第二界面的代码
 ### 1、向界面添加TextView显示随机数
-
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/19.png)
 ### 2、更新显示界面文本的TextView(textview_second)
-
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/20.png)
 ### 3、启用SafeArgs
-
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/21.png)
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/22.png)
 ### 4、创建导航动作的参数
-
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/23.png)
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/24.png)
 ### 5、FirstFragment添加代码，向SecondFragment发数据
-
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/25.png)
 ### 6、添加SecondFragment的代码
-
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/26.png)
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/27.png)
 ## 五、实验演示截图
