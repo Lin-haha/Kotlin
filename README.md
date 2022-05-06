@@ -13,9 +13,13 @@
 ![创建项目](https://github.com/Lin-haha/Kotlin/blob/master/img/img/4.png)
 ### 2、修改Textview属性
 ![创建项目](https://github.com/Lin-haha/Kotlin/blob/master/img/img/5.png)
-### 3、对TOAST按钮属性进行修改
 ![创建项目](https://github.com/Lin-haha/Kotlin/blob/master/img/img/6.png)
-### 4、对RANDOM按钮属性进行修改
+### 3、对TOAST按钮属性进行修改
 ![创建项目](https://github.com/Lin-haha/Kotlin/blob/master/img/img/7.png)
-### 5、新建一个按钮BUTTON并对其属性进行修改
 ![创建项目](https://github.com/Lin-haha/Kotlin/blob/master/img/img/8.png)
+### 4、对RANDOM按钮属性进行修改
+![创建项目](https://github.com/Lin-haha/Kotlin/blob/master/img/img/9.png)
+![创建项目](https://github.com/Lin-haha/Kotlin/blob/master/img/img/10.png)
+### 5、新建一个按钮BUTTON并对其属性进行修改
+![创建项目](https://github.com/Lin-haha/Kotlin/blob/master/img/img/11.png)
+![创建项目](https://github.com/Lin-haha/Kotlin/blob/master/img/img/12.png)
