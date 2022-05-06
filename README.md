@@ -51,3 +51,9 @@
 ![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/26.png)
 ![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/27.png)
 ## 五、实验演示截图
+### 1、点击TOAST出现消息
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/28.png)
+### 2、点击COUNT屏幕数字自加一
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/29.png)
+### 3、点击RANDOM跳转第二界面，出现0-COUNT数字之间的随机数
+![](https://github.com/Lin-haha/Kotlin/blob/master/img/img/30.png)
